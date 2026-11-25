@@ -1,0 +1,6 @@
+{
+  "name": "MuseumLens",
+  "description": "Museum Collection Data Storytelling - Explore museum collection records with historical dates, materials, and geographical information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
